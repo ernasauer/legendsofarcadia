@@ -1,0 +1,6 @@
+$ git co -b gh-pages
+Switched to a new branch 'gh-pages'
+$ git push origin gh-pages
+Total 0 (delta 0), reused 0 (delta 0)
+To https://github.com/ernasaur/legendsofarcadia.git
+ * [new branch]      gh-pages -> gh-pages
