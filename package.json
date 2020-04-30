@@ -7,7 +7,7 @@
   "devDependencies": {
     "bootstrap-sass": "^3.3.7",
     "gulp": "^3.9.1",
-    "jquery": "^3.1.0",
+    "jquery": "^3.5.0",
     "laravel-elixir": "^6.0.0-14",
     "laravel-elixir-vue-2": "^0.2.0",
     "laravel-elixir-webpack-official": "^1.0.2",
@@ -19,7 +19,7 @@
     "@sergiovilar/jquery-pjax": "^1.7.1-0",
     "buble-loader": "^0.4.0",
     "font-awesome": "^4.7.0",
-    "jquery": "^2.2.4",
+    "jquery": "^3.5.0",
     "nestedSortable": "ilikenwf/nestedSortable",
     "tinyscrollbar": "^2.4.2"
   }
